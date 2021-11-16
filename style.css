@@ -1,0 +1,14 @@
+.margin-top-and-bottom {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: blue;
+
+}
+.display-flex{
+    display: flex;
+}
+
+
+#image-style {
+    border: 4px dotted black;
+}
